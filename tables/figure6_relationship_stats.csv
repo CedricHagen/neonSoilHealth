@@ -1,0 +1,4 @@
+"panel","n_samples","r_squared","p_value"
+"(a) F:B vs Biomass",11399,0.132,0
+"(b) Fungal vs Bacterial",11399,0.558,0
+"(c) Stress vs F:B",11063,0.022,3.52376891186875e-55

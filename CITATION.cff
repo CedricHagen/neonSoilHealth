@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the paper and the dataset as below."
+type: software
+title: "neonSoilHealth: R workflow for processing NEON PLFA data"
+version: 1.0.0
+date-released: "2026-06-01"
+authors:
+  - family-names: Hagen
+    given-names: "Cedric J."
+    orcid: "https://orcid.org/0000-0001-6722-3098"
+    affiliation: "Department of Geological Sciences, University of Colorado Boulder"
+  - family-names: SanClements
+    given-names: "Michael D."
+    orcid: "https://orcid.org/0000-0002-1962-3561"
+    affiliation: "Institute of Arctic and Alpine Research, University of Colorado Boulder"
+repository-code: "https://github.com/CedricHagen/neonSoilHealth"
+url: "https://github.com/CedricHagen/neonSoilHealth"
+abstract: "An open-source R workflow and interactive Shiny application for accessing, processing, and analyzing soil microbial community data from the National Ecological Observatory Network (NEON). Processes phospholipid fatty acid (PLFA) measurements from 11,399 soil samples collected across 47 NEON sites between 2017 and 2024."
+keywords:
+  - NEON
+  - PLFA
+  - phospholipid fatty acids
+  - soil microbial communities
+  - biogeography
+  - soil health
+  - R
+  - Shiny
+license: MIT
+references:
+  - type: article
+    authors:
+      - family-names: Hagen
+        given-names: "Cedric J."
+        orcid: "https://orcid.org/0000-0001-6722-3098"
+      - family-names: SanClements
+        given-names: "Michael D."
+        orcid: "https://orcid.org/0000-0002-1962-3561"
+    title: "A continental-scale synthesis of phospholipid fatty acid data from the National Ecological Observatory Network"
+    journal: "Scientific Data"
+    year: 2026
+    status: "in review"
+  - type: dataset
+    authors:
+      - family-names: Hagen
+        given-names: "Cedric J."
+        orcid: "https://orcid.org/0000-0001-6722-3098"
+      - family-names: SanClements
+        given-names: "Michael D."
+        orcid: "https://orcid.org/0000-0002-1962-3561"
+    title: "Continental-scale synthesis of NEON phospholipid fatty acid data (2017-2024)"
+    year: 2026
+    publisher: "Zenodo"
+    doi: "10.5281/zenodo.20299460"
+    url: "https://doi.org/10.5281/zenodo.20299460"
